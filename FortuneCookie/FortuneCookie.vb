@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Fortune Cookie
-'url here
+'https://github.com/MEBreves/FortuneCookie
 
 Option Explicit On
 Option Strict On
